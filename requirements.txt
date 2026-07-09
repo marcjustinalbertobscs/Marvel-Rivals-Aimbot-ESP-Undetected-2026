@@ -1,0 +1,7 @@
+colorama
+pillow
+pynput
+tqdm
+scipy
+keyboard
+numpy
